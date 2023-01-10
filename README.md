@@ -8,11 +8,11 @@
 - 🔭 I’m currently working on [Riot Games](https://riotgames.com) via [X-Team](https://x-team.com)
 - 🔭 [AWS Community Builder since 2022](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Marcos%2BOrtiz&cb-cards.q_operator=AND)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and curating a [job board](https://interestingdatagigs.pallet.com/jobs) + [Talent Collective](https://interestingdatagigs.pallet.com/talent)
 
 - 👨‍💻 All of my projects are available at [https://marcosortiz.carrd.co/](https://marcosortiz.carrd.co/)
 
-- 📝 I regularly write articles on [https://interestingdatagigs.substack.com](https://interestingdatagigs.substack.com) and [AWS Graviton Weekly](https://awsgravitonweekly.com)
+- 📝 I regularly write articles on [Substack helping people to improve their job application with out-of-the-box ideas](https://interestingdatagigs.substack.com/subscribe) and [AWS Graviton Weekly, a newsletter focused on AWS Silicon](https://awsgravitonweekly.com)
 
 - 💬 Ask me about **[AWS Graviton](https://awsgravitonweekly.com), Apache Spark, Data Engineering, SQL, Python**
 
