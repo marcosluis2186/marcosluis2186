@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/marcosluis2186" target="blank"><img src="https://img.shields.io/twitter/follow/marcosluis2186?logo=twitter&style=for-the-badge" alt="marcosluis2186" /></a> </p>
 
-- 🔭 I’m currently working on [Riot Games](https://riotgames.com) via [X-Team](https://x-team.com)
+- 🔭 I’m currently working on [Riot Games](https://www.riotgames.com) via [X-Team](https://x-team.com)
 - 🔭 [AWS Community Builder since 2022](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Marcos%2BOrtiz&cb-cards.q_operator=AND)
 
 - 🌱 I’m currently learning **Rust** and curating a [job board](https://interestingdatagigs.pallet.com/jobs) + [Talent Collective](https://interestingdatagigs.pallet.com/talent)
