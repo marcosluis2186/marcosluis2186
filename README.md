@@ -22,11 +22,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Graviton Weekly # 16: Week from December 16th, 2022 to December 23th, 2022](https://marcosortiz.medium.com/aws-graviton-weekly-16-week-from-december-16th-2022-to-december-23th-2022-e8f919bbb4f9?source=rss-28d58264a2d2------2)
 - [Interesting Data Gigs # 20: Data Engineer at Mutiny](https://interestingdatagigs.substack.com/p/data-engineer-at-mutiny)
 - [Interesting Data Gigs # 19: Full-Stack Software Engineer at Nourish](https://interestingdatagigs.substack.com/p/software-engineer-at-nourish)
 - [Interesting Data Gigs # 18: The wake-up call of 2022](https://interestingdatagigs.substack.com/p/the-wake-up-call-of-2022)
-- [The Interesting Data Gigs has a Chat now.](https://interestingdatagigs.substack.com/p/the-chat)
-- [Interesting Data Gigs # 17: Just take my advice and join Sourcegraph](https://interestingdatagigs.substack.com/p/apply-for-a-job-at-sourcegraph-now)
+- [AWS Graviton Weekly # 8: Week from Oct 21st, 2022 to Oct 28th, 2022](https://marcosortiz.medium.com/aws-graviton-weekly-8-31034d2d4294?source=rss-28d58264a2d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
