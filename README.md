@@ -22,11 +22,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Interesting Data Gigs # 22: 11 Interesting Spots to Find a New Role as a Data Engineer in 2023](https://interestingdatagigs.substack.com/p/data-engineering-jobs-websites-in-2023)
+- [Interesting Data Gigs # 21: Get a job inside the CyberSecurity industry and skyrocket your career - Part I](https://interestingdatagigs.substack.com/p/get-a-job-in-cybersecurity-in-2023-part-1)
 - [AWS Graviton Weekly # 16: Week from December 16th, 2022 to December 23th, 2022](https://marcosortiz.medium.com/aws-graviton-weekly-16-week-from-december-16th-2022-to-december-23th-2022-e8f919bbb4f9?source=rss-28d58264a2d2------2)
-- [AWS Graviton Weekly # 8: Week from Oct 21st, 2022 to Oct 28th, 2022](https://marcosortiz.medium.com/aws-graviton-weekly-8-31034d2d4294?source=rss-28d58264a2d2------2)
-- [Interesting Data Gigs # 13: Data Scientist at VISA](https://marcosortiz.medium.com/interesting-data-gigs-13-data-scientist-at-visa-33505b729b40?source=rss-28d58264a2d2------2)
-- [I’m proudly part of the Before 6 AM Club and you should be too. Here’s why](https://marcosortiz.medium.com/im-proudly-part-of-the-before-6-am-club-and-you-should-be-too-here-s-why-68c022f23b84?source=rss-28d58264a2d2------2)
-- [I’m building a new newsletter focused on helping you to find your Data Analytics dream job](https://marcosortiz.medium.com/im-building-a-new-newsletter-focused-on-helping-you-to-find-your-data-analytics-dream-job-7caeee4005b7?source=rss-28d58264a2d2------2)
+- [Interesting Data Gigs # 20: Data Engineer at Mutiny](https://interestingdatagigs.substack.com/p/data-engineer-at-mutiny)
+- [Interesting Data Gigs # 19: Full-Stack Software Engineer at Nourish](https://interestingdatagigs.substack.com/p/software-engineer-at-nourish)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
