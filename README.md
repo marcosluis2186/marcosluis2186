@@ -22,11 +22,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Interesting Data Gigs # 23: Get a job inside the CyberSecurity industry and skyrocket your career - Part II](https://interestingdatagigs.substack.com/p/get-a-job-in-cybersecurity-in-2023-part-ii)
-- [Interesting Data Gigs # 22: 11 Interesting Spots to Find a New Role as a Data Engineer in 2023](https://interestingdatagigs.substack.com/p/data-engineering-jobs-websites-in-2023)
-- [Interesting Data Gigs # 21: Get a job inside the CyberSecurity industry and skyrocket your career - Part I](https://interestingdatagigs.substack.com/p/get-a-job-in-cybersecurity-in-2023-part-1)
+- [Interesting Data Gigs # 23: Get a job inside the CyberSecurity industry and skyrocket your career - Part II](https://newsletter.interestinggigs.com/p/get-a-job-in-cybersecurity-in-2023-part-ii)
+- [Interesting Data Gigs # 22: 11 Interesting Spots to Find a New Role as a Data Engineer in 2023](https://newsletter.interestinggigs.com/p/data-engineering-jobs-websites-in-2023)
+- [Interesting Data Gigs # 21: Get a job inside the CyberSecurity industry and skyrocket your career - Part I](https://newsletter.interestinggigs.com/p/get-a-job-in-cybersecurity-in-2023-part-1)
 - [AWS Graviton Weekly # 16: Week from December 16th, 2022 to December 23th, 2022](https://marcosortiz.medium.com/aws-graviton-weekly-16-week-from-december-16th-2022-to-december-23th-2022-e8f919bbb4f9?source=rss-28d58264a2d2------2)
-- [Interesting Data Gigs # 20: Data Engineer at Mutiny](https://interestingdatagigs.substack.com/p/data-engineer-at-mutiny)
+- [Interesting Data Gigs # 20: Data Engineer at Mutiny](https://newsletter.interestinggigs.com/p/data-engineer-at-mutiny)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
