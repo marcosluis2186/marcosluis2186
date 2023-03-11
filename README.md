@@ -22,7 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Interesting Data Gigs: Software Engineer, Product Infrastructure at The Browser Company](https://newsletter.interestinggigs.com/p/product-infrastructure-at-the-browser-company)
+- [Interesting Data Gigs # 26: Software Engineer, Product Infrastructure at The Browser Company](https://newsletter.interestinggigs.com/p/product-infrastructure-at-the-browser-company)
 - [Interesting Data Gigs # 25: Data Engineer at Adyen](https://newsletter.interestinggigs.com/p/interesting-data-gigs-25-adyen)
 - [Interesting Data Gigs # 24: Jump On The Bandwagon called Wiz Security](https://newsletter.interestinggigs.com/p/interesting-data-gigs-24-wiz-security)
 - [Interesting Data Gigs # 23: Get a job inside the CyberSecurity industry and skyrocket your career - Part II](https://newsletter.interestinggigs.com/p/get-a-job-in-cybersecurity-in-2023-part-ii)
