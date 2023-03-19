@@ -22,11 +22,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Interesting Data Gigs # 27: Just take my advice and apply for a role at Rippling](https://newsletter.interestinggigs.com/p/apply-for-a-role-at-rippling)
 - [Interesting Data Gigs # 26: Software Engineer, Product Infrastructure at The Browser Company](https://newsletter.interestinggigs.com/p/product-infrastructure-at-the-browser-company)
 - [Interesting Data Gigs # 25: Data Engineer at Adyen](https://newsletter.interestinggigs.com/p/interesting-data-gigs-25-adyen)
 - [Interesting Data Gigs # 24: Jump On The Bandwagon called Wiz Security](https://newsletter.interestinggigs.com/p/interesting-data-gigs-24-wiz-security)
 - [Interesting Data Gigs # 23: Get a job inside the CyberSecurity industry and skyrocket your career - Part II](https://newsletter.interestinggigs.com/p/get-a-job-in-cybersecurity-in-2023-part-ii)
-- [Interesting Data Gigs # 22: 11 Interesting Spots to Find a New Role as a Data Engineer in 2023](https://newsletter.interestinggigs.com/p/data-engineering-jobs-websites-in-2023)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
