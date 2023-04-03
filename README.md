@@ -23,10 +23,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [AWS Graviton Weekly # 29](https://marcosortiz.medium.com/aws-graviton-weekly-29-5ad92889cb8a?source=rss-28d58264a2d2------2)
-- [Interesting Data Gigs # 28: Customer Support at Mercury](https://newsletter.interestinggigs.com/p/customer-support-at-mercury)
+- [Interesting Data Gigs # 28: Customer Support at Mercury](https://interestingdatagigs.substack.com/p/customer-support-at-mercury)
 - [AWS Graviton Weekly # 28](https://marcosortiz.medium.com/aws-graviton-weekly-28-1e13cd3d74b1?source=rss-28d58264a2d2------2)
-- [Interesting Data Gigs # 27: Just take my advice and apply for a role at Rippling](https://newsletter.interestinggigs.com/p/apply-for-a-role-at-rippling)
-- [Interesting Data Gigs # 26: Software Engineer, Product Infrastructure at The Browser Company](https://newsletter.interestinggigs.com/p/product-infrastructure-at-the-browser-company)
+- [Interesting Data Gigs # 27: Just take my advice and apply for a role at Rippling](https://interestingdatagigs.substack.com/p/apply-for-a-role-at-rippling)
+- [Interesting Data Gigs # 26: Software Engineer, Product Infrastructure at The Browser Company](https://interestingdatagigs.substack.com/p/product-infrastructure-at-the-browser-company)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
