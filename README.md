@@ -24,9 +24,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Moving to beehiiv](https://interestingdatagigs.substack.com/p/moving-to-beehiiv)
 - [AWS Graviton Weekly # 29](https://marcosortiz.medium.com/aws-graviton-weekly-29-5ad92889cb8a?source=rss-28d58264a2d2------2)
-- [Interesting Data Gigs # 28: Customer Support at Mercury](https://interestingdatagigs.substack.com/p/customer-support-at-mercury)
 - [AWS Graviton Weekly # 28](https://marcosortiz.medium.com/aws-graviton-weekly-28-1e13cd3d74b1?source=rss-28d58264a2d2------2)
-- [Interesting Data Gigs # 27: Just take my advice and apply for a role at Rippling](https://interestingdatagigs.substack.com/p/apply-for-a-role-at-rippling)
+- [AWS Graviton Weekly # 16: Week from December 16th, 2022 to December 23th, 2022](https://marcosortiz.medium.com/aws-graviton-weekly-16-week-from-december-16th-2022-to-december-23th-2022-e8f919bbb4f9?source=rss-28d58264a2d2------2)
+- [AWS Graviton Weekly # 8: Week from Oct 21st, 2022 to Oct 28th, 2022](https://marcosortiz.medium.com/aws-graviton-weekly-8-31034d2d4294?source=rss-28d58264a2d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
