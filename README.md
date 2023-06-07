@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://marcosortiz.carrd.co/](https://marcosortiz.carrd.co/)
 
-- 📝 I regularly write articles on [Substack helping people to improve their job application with out-of-the-box ideas](https://interestingdatagigs.substack.com/subscribe), on [MotherDuck's website curating the DuckDB content of the month](https://motherduck.com/authors/marcos-ortiz/), and [AWS Graviton Weekly, a newsletter focused on AWS Silicon](https://awsgravitonweekly.com)
+- 📝 I regularly write articles on [beehiiv helping people to improve their job application with out-of-the-box ideas](https://newsletter.interestinggigs.com/subscribe), on [MotherDuck's website curating the DuckDB content of the month](https://motherduck.com/authors/marcos-ortiz/), and [AWS Graviton Weekly, a newsletter focused on AWS Silicon](https://awsgravitonweekly.com)
 
 - 💬 Ask me about **[AWS Graviton](https://awsgravitonweekly.com), Apache Spark, Data Engineering, SQL, Python**
 
