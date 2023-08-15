@@ -11,8 +11,9 @@
 - 🌱 I’m currently learning **Rust** and curating a [job board](https://interestingdatagigs.pallet.com/jobs) + [Talent Collective](https://interestingdatagigs.pallet.com/talent)
 
 - 👨‍💻 All of my projects are available at [https://marcosortiz.carrd.co/](https://marcosortiz.carrd.co/)
+- Favorite tools for content creation? **[beehiiv](https://www.beehiiv.com/?via=mlortiz)** and **[ConvertKit](https://convertkit.com?lmref=dNnOrw)**
 
-- 📝 I regularly write articles on **[beehiiv](https://www.beehiiv.com/?via=mlortiz)** [helping people to improve their job application with out-of-the-box ideas](https://newsletter.interestinggigs.com/subscribe?utm_source=github.com), on [MotherDuck's website curating the DuckDB content of the month](https://motherduck.com/authors/marcos-ortiz/), and [AWS Graviton Weekly, a newsletter focused on AWS Silicon](https://awsgravitonweekly.com?utm_source=github.com)
+- 📝 I regularly write articles on [helping people to improve their job application with out-of-the-box ideas](https://newsletter.interestinggigs.com/subscribe?utm_source=github.com), on [MotherDuck's website curating the DuckDB content of the month](https://motherduck.com/authors/marcos-ortiz/), and [AWS Graviton Weekly, a newsletter focused on AWS Silicon](https://awsgravitonweekly.com?utm_source=github.com)
 
 - 💬 Ask me about **[AWS Graviton](https://awsgravitonweekly.com), Apache Spark, Data Engineering, SQL, Python**
 
