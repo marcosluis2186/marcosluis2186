@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Riot Games](https://www.riotgames.com) via [X-Team](https://x-team.com)
 - 🔭 [AWS Community Builder since 2022](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Marcos%2BOrtiz&cb-cards.q_operator=AND)
 
-- 🌱 I’m currently learning **Rust** and building a product called [Cloud Silicon Content Library](https://datagigs.lemonsqueezy.com/buy/7bb3b41f-7fa8-4996-96d0-f1e09a6fbf8f)
+- 🌱 I’m currently learning **Rust** and building a product called **[Cloud Silicon Content Library](https://datagigs.lemonsqueezy.com/buy/7bb3b41f-7fa8-4996-96d0-f1e09a6fbf8f)**
 
 - 👨‍💻 All of my projects are available at [https://marcosortiz.carrd.co/](https://marcosortiz.carrd.co/)
 - Favorite tools for content creation? **[beehiiv](https://www.beehiiv.com/?via=mlortiz)** and **[ConvertKit](https://convertkit.com?lmref=dNnOrw)**
