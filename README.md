@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://marcosortiz.carrd.co/](https://marcosortiz.carrd.co/)
 - Favorite tools for content creation? **[beehiiv](https://www.beehiiv.com/?via=mlortiz)** and **[ConvertKit](https://convertkit.com?lmref=dNnOrw)**
-- Favorite tools for cloud costs optimization? [CAST.AI](https://cast.ai/?ref_id=17) and [Antimetal](antimetal.com/?via=awsgravitonweekly)
+- Favorite tools for cloud costs optimization? [CAST.AI](https://cast.ai/?ref_id=17) and [Antimetal](https://antimetal.com/?via=awsgravitonweekly)
 
 - 📝 I regularly write articles on [helping people to improve their job application with out-of-the-box ideas](https://newsletter.interestinggigs.com/subscribe?utm_source=github.com), and [AWS Graviton Weekly, a newsletter focused on AWS Silicon](https://awsgravitonweekly.com?utm_source=github.com)
 
