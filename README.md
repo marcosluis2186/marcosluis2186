@@ -21,10 +21,11 @@
 
 - ⚡ Fun fact **I was born in a small town in Cuba called Trinidad**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Moving to beehiiv](https://interestingdatagigs.substack.com/p/moving-to-beehiiv)
-<!-- BLOG-POST-LIST:END -->
+### Lastest blogs posts
+- [AWS Graviton Weekly # 85](https://awsgravitonweekly.com/posts/aws-graviton-weekly-85)
+- [AWS Graviton Weekly # 84](https://awsgravitonweekly.com/posts/aws-graviton-weekly-84)
+- [AWS Graviton Weekly # 83](https://awsgravitonweekly.com/posts/aws-graviton-weekly-83-it-s-launch-day-the-aws-silicon-content-library-is-ready)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
