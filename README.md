@@ -8,13 +8,13 @@
 - 🔭 I’m currently working on [Riot Games](https://www.riotgames.com) via [X-Team](https://x-team.com)
 - 🔭 [AWS Community Builder since 2022](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Marcos%2BOrtiz&cb-cards.q_operator=AND)
 
-- 🌱 I’m currently learning **Rust** and building a product called **[Cloud Silicon Content Library](https://datagigs.lemonsqueezy.com/buy/7bb3b41f-7fa8-4996-96d0-f1e09a6fbf8f)**
+- 🌱 I’m currently building a federal contracting business from scratch called **[Double O Enterprises LLC](https://doubleoenterprises.co)**
 
 - 👨‍💻 All of my projects are available at [https://marcosortiz.carrd.co/](https://marcosortiz.carrd.co/)
-- Favorite tools for content creation? **[beehiiv](https://www.beehiiv.com/?via=mlortiz)** and **[ConvertKit](https://convertkit.com?lmref=dNnOrw)**
-- Favorite tools for cloud costs optimization? [CAST.AI](https://cast.ai/?ref_id=17) and [Antimetal](https://antimetal.com/?via=awsgravitonweekly)
+- Favorite tools for content creation? **[ConvertKit](https://convertkit.com?lmref=dNnOrw)**
+- Favorite tools for cloud costs optimization? [CAST.AI](https://cast.ai/?ref_id=17) and [Cloudfix](https://cloudfix.com?utm_source=awsgravitonweekly.com)
 
-- 📝 I regularly write articles on [helping people to improve their job application with out-of-the-box ideas](https://newsletter.interestinggigs.com/subscribe?utm_source=github.com), and [AWS Graviton Weekly, a newsletter focused on AWS Silicon](https://awsgravitonweekly.com?utm_source=github.com)
+- 📝 I regularly write articles on [helping people to improve their job application with out-of-the-box ideas](https://interestinggigs.com/?utm_source=github.com), and [AWS Graviton Weekly, a newsletter focused on AWS Silicon](https://awsgravitonweekly.com?utm_source=github.com)
 
 - 💬 Ask me about **[AWS Graviton](https://awsgravitonweekly.com), Apache Spark, Data Engineering, SQL, Python**
 
@@ -23,9 +23,8 @@
 - ⚡ Fun fact **I was born in a small town in Cuba called Trinidad**
 
 ### Lastest blogs posts
-- [AWS Graviton Weekly # 85](https://awsgravitonweekly.com/posts/aws-graviton-weekly-85)
-- [AWS Graviton Weekly # 84](https://awsgravitonweekly.com/posts/aws-graviton-weekly-84)
-- [AWS Graviton Weekly # 83](https://awsgravitonweekly.com/posts/aws-graviton-weekly-83-it-s-launch-day-the-aws-silicon-content-library-is-ready)
+- [AWS Graviton Weekly # 118](https://awsgravitonweekly.com/posts/aws-graviton-weekly-118)
+- [AWS Graviton Weekly # 117](https://awsgravitonweekly.com/posts/aws-graviton-weekly-117)
 
 
 <h3 align="left">Connect with me:</h3>
