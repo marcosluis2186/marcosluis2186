@@ -10,8 +10,7 @@
 
 - 🌱 I’m currently building a federal contracting business from scratch called **[Double O Enterprises LLC](https://doubleoenterprises.co)**
 
-- 👨‍💻 All of my projects are available at [https://marcosortiz.carrd.co/](https://marcosortiz.carrd.co/)
-- Favorite tools for content creation? **[ConvertKit](https://convertkit.com?lmref=dNnOrw)**
+- Favorite tool for content creation? **[Kit](https://partners.kit.com/sumz8bjxp7fp)**
 - Favorite tools for cloud costs optimization? [CAST.AI](https://cast.ai/?ref_id=17) and [Cloudfix](https://cloudfix.com?utm_source=awsgravitonweekly.com)
 
 - 📝 I regularly write articles on [helping people to improve their job application with out-of-the-box ideas](https://interestinggigs.com/?utm_source=github.com), and [AWS Graviton Weekly, a newsletter focused on AWS Silicon](https://awsgravitonweekly.com?utm_source=github.com)
